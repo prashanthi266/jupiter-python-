@@ -1,1 +1,11 @@
+Hello World
+Let's say Hello to the world with a PRINT statement. E.g. print("Hello World"). Why not give it a try put in a print statement in the cell bellow. Don't forget to do shift+enter to run the cell:
 
+print("Hello World")
+Hello World
+Say Hello World on two lines
+Let's print Hello and World on two separate lines. Hint: \n in the middle of the string acts as a new line character. E.g. print("line 1\nline 2"). Let's try it now. Type in a print statement in the cell bellow. Don't forget to do shift+enter to run the cell:
+
+print("hello \n world")
+hello 
+ world
